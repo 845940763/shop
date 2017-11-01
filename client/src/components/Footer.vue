@@ -1,6 +1,6 @@
 <template>
-<div>
- <div class="site-footer">
+   <div>
+          <div class="site-footer">
         <div class="container">
             <div class="footer-service">
                 <!-- <ul class="list-service clearfix">
@@ -133,19 +133,11 @@
                 </p>
             </div>
             <div class="info-links">
-              
+                <!-- <a href="#"><img src="http://s1.mi.shudong.wang/zt/12052601/cnnicVerifyseal.png" alt="可信网站"></a> -->
+                <!-- <a href="#"><img src="http://s1.mi.shudong.wang/zt/12052601/szfwVerifyseal.gif" alt="诚信网站"></a> -->
+                <!-- <a href="#"><img src="http://s1.mi.shudong.wang/zt/12052601/save.jpg" alt="网上交易保障中心"></a> -->
             </div>
         </div>
     </div>
-
-</div>
-</div>
-
+   </div>
 </template>
-
-
-<script>
-    export default{
-        
-    }
-</script>
